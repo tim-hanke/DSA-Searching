@@ -6,7 +6,11 @@ Create a GitHub repo called "DSA-Searching". Save all this work in the repo and 
 
 - Given a sorted list `3, 5, 6, 8, 11, 12, 14, 15, 17, 18` and using the recursive binary search algorithm, identify the sequence of numbers that each recursive call will search to try and find `8`.
 
+> `12, 6, 8`
+
 - Given a sorted list `3, 5, 6, 8, 11, 12, 14, 15, 17, 18` and using the recursive binary search algorithm, identify the sequence of numbers that each recursive call will search to try and find `16`.
+
+> `12, 15, 17`
 
 ## 2. Adding a React UI
 
